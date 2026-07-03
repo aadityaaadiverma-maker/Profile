@@ -106,7 +106,7 @@ https://github.com/aadityaaadiverma-maker/asset-management-system
 ## 📫 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: YOUR_EMAIL
+- Email: aadityaaadiverma@gmail.com
 - GitHub: https://github.com/aadityaaadiverma-maker
 
 ---
